@@ -2,7 +2,7 @@
 
 ## Day 9 — Sound Board :
 
-the nineth project of 50 projects in 50 days challenge
+the ninth project of 50 projects in 50 days challenge
 
 # Live Demo : <a href="https://abdellahak.github.io/50projects50days-Day9/">Visit link</a>
 
